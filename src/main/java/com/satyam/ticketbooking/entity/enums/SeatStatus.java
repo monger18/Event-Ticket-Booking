@@ -1,6 +1,6 @@
 package com.satyam.ticketbooking.entity.enums;
 
-public enum SetStatus {
+public enum SeatStatus {
     AVAILABLE,
     LOCKED,
     BOOKED
